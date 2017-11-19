@@ -3,21 +3,21 @@ proyecto react, scl-2017-11-ec-js-react
 
 
 3 tabs
-	- Hogar
-	- Estudio
-	- Recreación
-	- Trabajo
-	-Busqueda/Range
+- Hogar
+- Estudio
+- Recreación
+- Trabajo
+-Busqueda/Range
 
 Prop:
-	-prioridad: 1-5
-	-Tarea: type string
-	-id
+-prioridad: 1-5
+-Tarea: type string
+-id
 
 Componentes:
-	-navbar: 
-Buscador
-Btn: Rango de prioridad
+-navbar: 
+	Buscador
+	Btn: Rango de prioridad
 
 -SideBar:
  - Hogar
